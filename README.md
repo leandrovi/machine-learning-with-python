@@ -1,5 +1,5 @@
 # Machine Learning With Python
-## Pima Indian data to set tendencies about diabetes
+## Pima Indian data to predict data about diabetes
 
 Project developed through a PluralSight course: Using the Machine Learning Workflow to process and transform "Pima Indian" data to create a predictional model.
 
